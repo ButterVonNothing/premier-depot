@@ -5,7 +5,6 @@ int addition(int a, int b)
 	int resultat;
 	
 	resultat = a + b;
-	"hello world";
 	
 	return resultat;
 }
