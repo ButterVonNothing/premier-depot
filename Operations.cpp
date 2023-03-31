@@ -35,5 +35,15 @@ int division(int a, int b)
 	
 	return resultat;
 }
+
+
+int factoriel(int a)
+{
+	int resultat;
+	
+	resultat = a!;
+	
+	return resultat;
+}
 	
 	
