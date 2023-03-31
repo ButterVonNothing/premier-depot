@@ -1,4 +1,5 @@
 #include "Operations.h"
+#include<math.h>
 
 int addition(int a, int b)
 {
@@ -35,15 +36,12 @@ int division(int a, int b)
 	
 	return resultat;
 }
-
-
-int factoriel(int a)
+int exposant(int nb, int exp)
 {
 	int resultat;
 	
-	resultat = a!;
+	int exp= pow(x,2);
 	
 	return resultat;
-}
-	
+}	
 	
