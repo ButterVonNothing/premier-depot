@@ -43,5 +43,15 @@ int exposant(int nb, int exp)
 	int exp= pow(x,2);
 	
 	return resultat;
-}	
+}
+
+
+int factoriel(int a)
+{
+	int resultat;
+	
+	resultat = a!;
+	
+	return resultat;
+}
 	
